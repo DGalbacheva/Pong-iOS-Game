@@ -1,5 +1,5 @@
 
-##Pong iOS Game
+# Pong iOS Game
 
 ## Overview
 
