@@ -48,7 +48,7 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="QFA-jq-m1C">
-                                <rect key="frame" x="190" y="349" width="34" height="34"/>
+                                <rect key="frame" x="190" y="349" width="34" height="38"/>
                                 <color key="backgroundColor" red="1" green="0.44705882352941173" blue="0.20784313725490194" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="QFA-jq-m1C" secondAttribute="height" multiplier="1:1" id="Tws-kF-MPN"/>
