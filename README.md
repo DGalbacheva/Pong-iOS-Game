@@ -22,11 +22,11 @@ Welcome to Pong, an iOS game that brings back the classic arcade experience in a
 
 ## Screenshots
 
-/Users/danicstv/Desktop/Simulator Screenshot - iPhone 15 - 2023-11-24 at 16.35.32.png
+![Home Screen app icon](/Users/danicstv/Desktop/Simulator Screenshot - iPhone 15 - 2023-11-24 at 16.35.32.png)
 
-/Users/danicstv/Desktop/Simulator Screenshot - iPhone 15 - 2023-11-24 at 16.40.24.png
+![Launch screen](/Users/danicstv/Desktop/Simulator Screenshot - iPhone 15 - 2023-11-24 at 16.40.24.png)
 
-/Users/danicstv/Desktop/Simulator Screenshot - iPhone 15 - 2023-11-24 at 16.42.37.png
+![Application main screen](/Users/danicstv/Desktop/Simulator Screenshot - iPhone 15 - 2023-11-24 at 16.42.37.png)
 
 ## Installation
 
