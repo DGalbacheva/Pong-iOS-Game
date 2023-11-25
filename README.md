@@ -56,3 +56,4 @@ This project is licensed under the MIT License.
 - Developed with passion by Doroteya Galbacheva.
 
 Enjoy the game! 🏓
+
