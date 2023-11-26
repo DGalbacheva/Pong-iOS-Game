@@ -25,7 +25,7 @@ Welcome to Pong, an iOS game that brings back the classic arcade experience in a
 <table>
 <tr>
 <th>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285658779-d3f67578-0e7f-40aa-9611-524691aa85f3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T144930Z&X-Amz-Expires=300&X-Amz-Signature=edee4c7b5364e7c3e86a1a7b1353f9431d351ae3d41b87258d35aec804739611&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806" width="953" height="440">
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285658779-d3f67578-0e7f-40aa-9611-524691aa85f3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T144930Z&X-Amz-Expires=300&X-Amz-Signature=edee4c7b5364e7c3e86a1a7b1353f9431d351ae3d41b87258d35aec804739611&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806">
  </th>
  <th>
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285658996-6372238c-e8b9-4be8-8a9e-11e98346659e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T145238Z&X-Amz-Expires=300&X-Amz-Signature=38090ab777d9dba9ad296391f86064eecfbd9192f5fa780c93e588d672bce29a&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806" width="953" height="440">
