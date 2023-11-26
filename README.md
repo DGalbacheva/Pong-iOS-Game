@@ -21,7 +21,6 @@ Welcome to Pong, an iOS game that brings back the classic arcade experience in a
 5. The first player to reach 5 points wins the game. Aim for victory and become the Pong champion!
 
 ## Screenshots
-![screenshot1](https://github.com/DGalbacheva/Pong-iOS-Game/assets/113231573/71c792cd-8d9a-4e85-9551-2cf5deebf936)
 
 <p>
  <img src="https://private-user-images.githubusercontent.com/113231573/285569692-6e607271-8b72-4413-b722-f7529659bcbf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA4OTcyNDgsIm5iZiI6MTcwMDg5Njk0OCwicGF0aCI6Ii8xMTMyMzE1NzMvMjg1NTY5NjkyLTZlNjA3MjcxLThiNzItNDQxMy1iNzIyLWY3NTI5NjU5YmNiZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyNVQwNzIyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMWNmNzM1NjRiY2M2NWMwMzYzODgzZDQxMjJkMzJmOTQxZDRjOGM2YWNkNmMzN2UyODQ2YjFmNGE0ODYxOTQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.a3MRN5qEflOFafutlh8MU94RsBKsqT6rpSggf5Zfwuk" height="440"/> 
