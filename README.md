@@ -25,10 +25,10 @@ Welcome to Pong, an iOS game that brings back the classic arcade experience in a
 <table>
 <tr>
 <th>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285658779-d3f67578-0e7f-40aa-9611-524691aa85f3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T144930Z&X-Amz-Expires=300&X-Amz-Signature=edee4c7b5364e7c3e86a1a7b1353f9431d351ae3d41b87258d35aec804739611&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806">
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285662157-d84df93c-1b87-4a4a-8a56-5eebd9287b90.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T153542Z&X-Amz-Expires=300&X-Amz-Signature=a8a64274ffe8225193dfd45700918c6582a587ade84804ee7faeb01d350ceb6a&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806">
  </th>
  <th>
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285661992-a2e1a498-d651-49a4-a827-f861f5b20263.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T153252Z&X-Amz-Expires=300&X-Amz-Signature=92b0db0292154c73c03185cc07695a379c109d2fec3ce59ecc09147bd7253f5c&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806"
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285661992-a2e1a498-d651-49a4-a827-f861f5b20263.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T153252Z&X-Amz-Expires=300&X-Amz-Signature=92b0db0292154c73c03185cc07695a379c109d2fec3ce59ecc09147bd7253f5c&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806">
  </th>
  <th>
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285659157-ca3383a0-a9e3-4458-84b5-8dd4ba062700.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T145511Z&X-Amz-Expires=300&X-Amz-Signature=057daa835086cc6ff6e22002d7d16f56cfb5a4d358c5efa549025b430af74233&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806">
