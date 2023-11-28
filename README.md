@@ -22,7 +22,7 @@ Welcome to Pong, an iOS game that brings back the classic arcade experience in a
 
 ## Screenshots
 
-<table border:none>
+<table>
 <tr>
 <th>
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113231573/285662157-d84df93c-1b87-4a4a-8a56-5eebd9287b90.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T153542Z&X-Amz-Expires=300&X-Amz-Signature=a8a64274ffe8225193dfd45700918c6582a587ade84804ee7faeb01d350ceb6a&X-Amz-SignedHeaders=host&actor_id=113231573&key_id=0&repo_id=723029806">
